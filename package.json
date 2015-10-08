@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-chasevida",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A variation of the ESLint space-in-parens rule that adds additional exceptions",
   "keywords": [
     "eslint",
