@@ -1,5 +1,7 @@
 # eslint-plugin-chasevida
 
+[![Build Status](https://img.shields.io/travis/chasevida/eslint-plugin-chasevida/master.svg?style=flat-square)](https://travis-ci.org/chasevida/eslint-plugin-chasevida)
+
 A variation/fork of the ESLint `space-in-parens` rule by Jonathan Rajavuori that adds additional exceptions.
 
 This fork essentially allows for the below style to be valid where a negative assertion is given spacing to make it stand out when reading through the source.
